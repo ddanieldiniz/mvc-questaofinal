@@ -1,0 +1,51 @@
+body {
+    background-image: url("/images/background-natural-brasil.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo {
+    font-size: 32px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #FFF;
+}
+
+.subtitulo {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#tela-pedido {
+    color: #FFF;
+}
+
+.btn-voltar {
+    margin-top: 20px;
+}
+
+.btn-acao {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-check {
+    margin-bottom: 10px;
+}
+
+#tela-contato img {
+    color: #FFF;
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+#tela-contato a {
+    white-space: nowrap;
+    text-decoration: none;
+    color: #FFF;
+}
